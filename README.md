@@ -1,1 +1,0 @@
-# uzimagebot-v3
